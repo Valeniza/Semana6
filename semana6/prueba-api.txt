@@ -3,7 +3,7 @@
   "mensaje": "Hola comunidad"
 }
 Al realizar la petición (POST) el servidor nos reponde con Json 
-confirmando que los datos han sido recibidos 
+confirmando que los datos han sido recibidos. 
 {
   "estado": "Datos recibidos",
   "nombre": "Maria",
