@@ -1,0 +1,2 @@
+Al realizar la petición (POST) el servidor nos reponde con Json 
+confirmando que los datos han sido recibidos 

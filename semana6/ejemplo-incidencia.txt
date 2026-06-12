@@ -1,0 +1,4 @@
+{
+  "tipo": "Árbol en la vía",
+  "descripcion": "En la vía se encuentra un árbol que se cayó por los fuertes vientos de la noche anterior."
+}

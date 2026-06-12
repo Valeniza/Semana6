@@ -1,0 +1,8 @@
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información 
+enviada por los ciudadanos de forma estructurada?
+
+Porque esto permite tener la información que se recibe de manera organizada y almacenar 
+los datos enviados por los ciudadanos de forma rápida y efeciente, mejorando la comunicación
+entre las personas e instituciones.
+También contribuye a brindar respuestas oportunas y a tomar decisiones basadas en información 
+clara y ordenada.
